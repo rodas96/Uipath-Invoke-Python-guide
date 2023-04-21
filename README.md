@@ -15,6 +15,11 @@ After that go to your activities panel and you should find those
 In order to invoke your code youl need to drag it by this order - python scope->load python script->Invoke python Script->Get python object
 
 
+
+<img width="288" alt="image" src="https://user-images.githubusercontent.com/108375741/233712466-9130f870-28cf-4336-80b5-271c9d2f1853.png">
+
+
+
 1st Step is using the python scope - You will define the path for python.exe,your version of python, your target, and the working file that your uipath project is.
 
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/108375741/233706958-c4b4a536-a6ac-49ad-b1ec-c3ee73cc3063.png">
